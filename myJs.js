@@ -5,18 +5,16 @@ const textConfig = {
   //text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
   text5: "Không",
   text6: "Em đồng ý",
-  text7: "Lịch trình cụ thể như sau:\n" +
-  "6h-6h30 : Đón tại nhà                                \n" +
-  "7h : Đi ăn hấp thủy cách nhiệt tại Chang Kang Kung   \n" +
-  "Sau đó tự do theo sở thích                           \n" ,
+  text7: "Cảm ơn em eooo\n" +
+  "Eo em rất nhiềuuuuuu                            \n"  ,
   //str.link("https://newpearl.com.vn/ca"),
   
   
   text8: "Em đồng ý",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Thứ 7 anh qua đón em nha !!!",
+  text10: "Thứ 5 anh qua đón em nha !!!",
   text11:
-    "Nhắn tin cho anh địa chỉ đi ",
+    "Eo emmmmm <3 ",
   text12: "Okii lunn <3",
   text13: "6h-6h30 : Đón tại nhà " + "\n" + "6h30-7h : Đi ăn \n",
   text14: "6h30-7h : Đi ăn \n",
